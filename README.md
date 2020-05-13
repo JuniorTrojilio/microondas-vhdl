@@ -28,4 +28,4 @@ Figura 1: Diagrama de blocos para o sistema do forno. Fonte: (Tocci, 2011).
 
 ---
 
-<p>< > with 💙 by <a href="https://github.com/juniortrojilio">Junior Trojilio</a> && Diogo T. M. Tamashiro</p>
+<p align="center">< > with 💙 by <a href="https://github.com/juniortrojilio">Junior Trojilio</a> && Diogo T. M. Tamashiro</p>
